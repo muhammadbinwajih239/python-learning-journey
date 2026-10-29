@@ -23,6 +23,10 @@ My focus is on building strong programming fundamentals, improving problem-solvi
 - [Python Source Code](./04-smart-bus-ticket-booking-system/main.py)
 - [Test Cases](./04-smart-bus-ticket-booking-system/test_cases.txt)
 
+### 05. Python f-Strings
+- [Project Overview](./05-f-strings/README.md)
+- [f-String Examples](./05-f-strings/f_strings.py)
+
 ## Tools and Technologies
 
 - Python
