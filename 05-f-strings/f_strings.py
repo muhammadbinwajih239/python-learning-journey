@@ -55,8 +55,10 @@ print(f"Ticket number: {ticket_number:03d}")
 
 # 10. Display the sign of a number
 change = 25
+negative_change = -25
 
-print(f"Balance change: {change:+d}")
+print(f"Positive balance change: {change:+d}")
+print(f"Negative balance change: {negative_change:+d}")
 
 # 11. Display an integer in binary, octal, and hexadecimal
 number = 42
@@ -89,7 +91,7 @@ measurement = 123.456
 print(f"Measurement: |{measurement:{width}.{precision}f}|")
 
 # 16. Format date and time
-event_time = datetime(2026, 10, 29, 17, 45)
+event_time = datetime(2026, 10, 30, 17, 45)
 
 print(f"Date: {event_time:%d-%m-%Y}")
 print(f"Time: {event_time:%I:%M %p}")
