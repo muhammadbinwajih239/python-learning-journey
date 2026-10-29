@@ -11,6 +11,8 @@ My focus is on building strong programming fundamentals, improving problem-solvi
 ### 01. Python Fundamentals
 - [String Methods](./01-python-fundamentals/string_methods.py)
 - [Mutability vs Immutability](./01-python-fundamentals/mutability_vs_immutability.py)
+- [f-Strings Project](./01-python-fundamentals/f-strings/README.md)
+- [f-Strings Practice Code](./01-python-fundamentals/f-strings/f_strings.py)
 
 ### 02. Calculator
 - [Calculator Project](./02-calculator/calculator.py)
@@ -22,10 +24,6 @@ My focus is on building strong programming fundamentals, improving problem-solvi
 - [Project Overview](./04-smart-bus-ticket-booking-system/README.md)
 - [Python Source Code](./04-smart-bus-ticket-booking-system/main.py)
 - [Test Cases](./04-smart-bus-ticket-booking-system/test_cases.txt)
-
-### 05. Python f-Strings
-- [Project Overview](./05-f-strings/README.md)
-- [f-String Examples](./05-f-strings/f_strings.py)
 
 ## Tools and Technologies
 
