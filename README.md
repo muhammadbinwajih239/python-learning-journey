@@ -5,7 +5,7 @@ A growing collection of Python practice exercises and beginner projects as I bui
 ## Repository Guide
 
 ### 01. Python Fundamentals
-Small, focused examples for core Python concepts.
+Small, focused examples for core Python concepts. 
 
 - [String Methods](./01-python-fundamentals/string_methods.py)
 - [Mutability vs Immutability](./01-python-fundamentals/mutability_vs_immutability.py)
