@@ -10,6 +10,7 @@ Small, focused examples for core Python concepts.
 - [String Methods](./01-python-fundamentals/string_methods.py)
 - [Mutability vs Immutability](./01-python-fundamentals/mutability_vs_immutability.py)
 - [f-Strings](./01-python-fundamentals/f_strings.py)
+- [Python Functions](./01-python-fundamentals/functions.py)
 
 ### 02. Calculator
 - [Calculator source code](./02-calculator/calculator.py)
