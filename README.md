@@ -33,6 +33,14 @@ A text-based Python project for browsing sample routes, booking and cancelling s
 - [Main Python program](./04-smart-bus-ticket-booking-system/main.py)
 - [Test cases](./04-smart-bus-ticket-booking-system/test_cases.txt)
 
+### 05. Billing & Discount System
+
+A beginner-level billing program that stores product details, calculates totals, applies a discount, and displays a receipt.
+
+- [Project overview and instructions](./Projects/Billing-and-Discount-System/README.md)
+- [Main Python program](./Projects/Billing-and-Discount-System/billing_system.py)
+- [Sample terminal preview](./Projects/Billing-and-Discount-System/screenshots/sample_receipt.svg)
+
 ---
 
 ## Tools
@@ -54,6 +62,12 @@ For example:
 
 ```bash
 python 02-calculator/calculator.py
+```
+
+To run the Billing & Discount System:
+
+```bash
+python Projects/Billing-and-Discount-System/billing_system.py
 ```
 
 You can run the other projects by replacing the path with the relevant `.py` file.
