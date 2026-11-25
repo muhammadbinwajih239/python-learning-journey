@@ -57,15 +57,6 @@ These repositories contain separate practice work and references related to Pyth
 - [Python String Methods](https://github.com/muhammadbinwajih239/python-string-methods) - examples of 20 useful string methods.
 - [Python Input Validation Exercises](https://github.com/muhammadbinwajih239/python-string-methods/tree/main/input-validation) - four small programs for practising string methods, conditions, and basic input checks.
 
-## Other Project
-
-### Event Planner Website
-
-A group web development project built with HTML and CSS. My contribution includes the Gallery and Packages pages.
-
-- [GitHub Repository](https://github.com/muhammadbinwajih239/Event-Planner)
-- [Live Gallery Page](https://muhammadbinwajih239.github.io/Event-Planner/gallery.html)
-- [Live Packages Page](https://muhammadbinwajih239.github.io/Event-Planner/packages.html)
 
 ## Tools
 
