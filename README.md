@@ -1,46 +1,71 @@
 # Python Learning Journey
 
-A collection of Python practice exercises and beginner-level projects. This repository documents my progress as I strengthen programming fundamentals and problem-solving skills through hands-on implementation.
+A collection of Python practice exercises and beginner-friendly projects. This repository documents my progress as I strengthen programming fundamentals, work with data structures, and apply concepts through small console-based applications.
 
-## Repository Contents
+## Projects in This Repository
 
 ### 01. Python Fundamentals
 
-Focused examples covering core Python concepts:
+Focused examples for practising core Python concepts.
 
 - [String Methods](./01-python-fundamentals/string_methods.py)
 - [Mutability vs Immutability](./01-python-fundamentals/mutability_vs_immutability.py)
 - [f-Strings](./01-python-fundamentals/f_strings.py)
 - [Python Functions](./01-python-fundamentals/functions.py)
 
-### 02. Calculator
+### 02. Basic Calculator
 
-A basic command-line calculator project.
+A command-line calculator for practising arithmetic operations and conditional statements.
 
 - [Calculator source code](./02-calculator/calculator.py)
+- [Standalone Calculator Repository](https://github.com/muhammadbinwajih239/python-basic-calculator)
 
 ### 03. Class Report System
 
-A Python program for collecting student records and producing report information.
+A student report program that collects records and displays report information.
 
 - [Class Report System source code](./03-class-report-system/report_card.py)
+- [Standalone Class Report Card System](https://github.com/muhammadbinwajih239/class-report-card-system)
 
-### 04. Smart Bus Ticket Booking System
+### 04. Smart Bus Ticket Booking and Reservation System
 
-A text-based Python project for browsing sample routes, booking and cancelling seats, checking availability, and viewing booking reports.
+A text-based Python application for managing sample bus routes, ticket bookings, cancellations, seat availability, schedules, and booking reports.
 
 - [Project overview and instructions](./04-smart-bus-ticket-booking-system/README.md)
 - [Main Python program](./04-smart-bus-ticket-booking-system/main.py)
 - [Test cases](./04-smart-bus-ticket-booking-system/test_cases.txt)
+- [Standalone Project Repository](https://github.com/muhammadbinwajih239/smart-bus-ticket-booking-system)
 
 ### 05. Mini Billing & Discount System
 
-A small Python practice project using lists, list methods, slicing, functions, and basic calculations.
+A small practice project that uses lists, list methods, slicing, functions, positional arguments, return values, and basic calculations.
 
 - [Project overview and instructions](./Projects/Billing-and-Discount-System/README.md)
 - [Main Python program](./Projects/Billing-and-Discount-System/billing_system.py)
 
----
+### 06. Academy Attendance Tracker
+
+A beginner-level project that uses tuples, dictionaries, and sets to manage sample student information and compare attendance for Saturday and Sunday.
+
+- [Project overview and instructions](./06-academy-attendance-tracker/README.md)
+- [Python source code](./06-academy-attendance-tracker/academy_attendance_tracker.py)
+
+## Standalone Python Practice Repositories
+
+These repositories contain separate practice work and references related to Python fundamentals.
+
+- [Python String Methods](https://github.com/muhammadbinwajih239/python-string-methods) - examples of 20 useful string methods.
+- [Python Input Validation Exercises](https://github.com/muhammadbinwajih239/python-string-methods/tree/main/input-validation) - four small programs for practising string methods, conditions, and basic input checks.
+
+## Other Project
+
+### Event Planner Website
+
+A group web development project built with HTML and CSS. My contribution includes the Gallery and Packages pages.
+
+- [GitHub Repository](https://github.com/muhammadbinwajih239/Event-Planner)
+- [Live Gallery Page](https://muhammadbinwajih239.github.io/Event-Planner/gallery.html)
+- [Live Packages Page](https://muhammadbinwajih239.github.io/Event-Planner/packages.html)
 
 ## Tools
 
@@ -51,36 +76,23 @@ A small Python practice project using lists, list methods, slicing, functions, a
 
 ## Running the Projects
 
-1. Make sure Python 3 is installed.
-2. Clone or download this repository.
-3. Open the repository folder in Visual Studio Code or a terminal.
-4. Open the project file you want to run.
-5. Run the relevant Python file with Python 3.
+Make sure Python 3 is installed, then open a terminal in the repository folder and run the relevant file.
 
-For example:
+Examples:
 
 ```bash
 python 02-calculator/calculator.py
-```
-
-To run the Mini Billing & Discount System:
-
-```bash
+python 03-class-report-system/report_card.py
+python 04-smart-bus-ticket-booking-system/main.py
 python Projects/Billing-and-Discount-System/billing_system.py
+python 06-academy-attendance-tracker/academy_attendance_tracker.py
 ```
 
-You can run the other projects by replacing the path with the relevant `.py` file.
-
-## Related Standalone Repositories
-
-- [Python Basic Calculator](https://github.com/muhammadbinwajih239/python-basic-calculator)
-- [Class Report Card System](https://github.com/muhammadbinwajih239/class-report-card-system)
-- [Smart Bus Ticket Booking System](https://github.com/muhammadbinwajih239/smart-bus-ticket-booking-system)
-- [Python String Methods](https://github.com/muhammadbinwajih239/python-string-methods)
+On Windows, use `py` instead of `python` if that is the command configured on your system.
 
 ## Learning Approach
 
-I use this repository to practise concepts, understand how programs work, learn from errors, and improve my code step by step. The examples are kept focused on the concepts being practised.
+I use this repository to practise concepts, understand how programs work, learn from errors, and improve step by step. The projects are kept focused on the concepts being practised.
 
 ---
 
